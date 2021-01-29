@@ -39,8 +39,8 @@ Several other countries were selected to compare against the United States with 
     <img src="https://github.com/vaizgomezjoseph/CO2-Transport-Emissions-US-vs-Others/blob/main/Images/Cumulative_Emissions.png" alt="alt text" width=425 height=500>
 </div>
 
-- In 2011 alone (left), the United States contributed just over 1.6 million kilotons of CO2 emissions from transport, which far exceeds the contributions from the 7 other nations combined.
-- The cumulative CO2 emissions from transport over a 41 year period (right) tell a similar story. Over that time period, the United States also produced more CO2 emissions than the 7 other nations combined.
+- In 2011 alone, the United States contributed just over 1.6 million kilotons of CO2 emissions from transport, which far exceeds the contributions from the 7 other nations combined.
+- The cumulative CO2 emissions from transport over a 41 year period tell a similar story. Over that time period, the United States also produced more CO2 emissions than the 7 other nations combined.
 - However, this is not the full story. Population is another variable to consider.
 
 ### Population Growth
